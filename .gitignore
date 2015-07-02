@@ -25,7 +25,5 @@ platforms
 hooks
 platforms
 config.xml
-.grunt
 plugins
-node_modules/*
 bower_components/*
