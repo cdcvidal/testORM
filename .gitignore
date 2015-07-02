@@ -7,14 +7,6 @@ build/*
 www/app/styles/*.css
 www/app/styles/*.css.map
 
-**/config.js
-
-**/*.pyc
-**/*.ini
-**/*.egg-info
-**/*.egg-info/*
-**/*.egg
-
 **/*.rar
 
 npm-debug.log
