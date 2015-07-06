@@ -10,6 +10,8 @@ git clone  https://github.com/cdcvidal/testORM
 INSTALLATION BOWER
 - dans le dossier testORM
 npm install grunt
+- dans le dossier www
+bower install
 
 MANUELLEMENT
 - dans le dossier www/bower_components/persistence/lib/
